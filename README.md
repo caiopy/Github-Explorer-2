@@ -1,5 +1,5 @@
 <p align="center">
-   <img alt='dtmoney' src='public/assets/GHlogo.svg'>
+   <img alt='dtmoney' src='public/assets/GHLogo.svg'>
 </p>
 <br>
 
